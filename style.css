@@ -85,7 +85,7 @@ body {
 }
 
 .image-grid img {
-  width: 150%;
+  width: 100%;
   height: 250px;
   object-fit: cover;
   border-radius: 10px;
@@ -96,6 +96,7 @@ body {
 .image-grid img:hover {
   transform: scale(1.05);
 }
+
 
 
 
